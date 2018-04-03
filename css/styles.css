@@ -106,7 +106,7 @@ ul li {
 	box-sizing:content-box;
 }
 .capsule h2.uppercase {
-	font-size: 24px;
+	font-size: 22px;
 	line-height:1.2;
 	position: relative;
 	left: 9px;
@@ -127,7 +127,7 @@ span.copyright {
 	text-align: center;
 }
 footer>.callout>.grid-x>.social-media {
-	max-width: 76px;
+	max-width: 78px;
 	display: block;
 	margin: 0 auto;
 }
@@ -204,6 +204,10 @@ body main .companies .cell p {
 	margin-right: 0 !important;
 	width: 33.3333% !important;
 	padding-right:2%;
+}
+.ssl-logo {
+	position:relative;
+	 bottom:15px;
 }
 @media (max-width:768px) and (min-width:640px) {
 	.grid-x.large-3.medium-3.small-12.companies {
