@@ -1,0 +1,265 @@
+body, .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-family: "Blender", Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+body main {
+  display: block;
+  margin:0 auto !important;
+  max-width:1140px;
+}
+a {
+	color:#3ED37C;
+}
+.callout {
+	border:none;
+	background:transparent;
+}
+header {
+	background: url('../images/geoint-hero.jpg') center center no-repeat;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50vh 5%;
+	padding-top:0;
+}
+.grid-x>div {
+	margin: 20px 0;
+}
+.logo {
+	margin-top:1em;
+}
+.logo a {
+	display:block;
+}
+.logo a img {
+	width:160px;
+	height:45px;
+}
+@media (max-width: 768px) {
+	.logo a {
+		margin: 0 auto;
+		margin-top:3em;
+	}
+}
+footer .callout {
+	background: black;
+	color: #ccc;
+	margin-bottom:0;
+}
+footer .callout a {
+	color:white;
+	transition:.2s ease all;
+}
+footer .callout a:hover {
+	text-decoration:underline;
+}
+ul li {
+	font-size:.95em;
+	margin: 0 0 15px;
+	font-weight:100;
+}
+.social-media img {
+	max-width: 16px;
+	margin   : 20px 20px 20px 0;
+}
+.capsule.small {
+	margin-top:50px;
+	position:relative;
+}    
+.top {
+	background:white;
+	width: 178.333px;
+	height:133.333px;
+	position:relative;
+	padding: 25px 0px 25px 5px !important;
+	overflow:visible;
+}
+.top::after {
+	content: '';
+	border-right: 183.333px solid transparent;
+	border-bottom: 183.333px solid white;
+	left: 183.333px;
+	top: 0;
+	position: absolute;
+	width: 0;
+	height: 0;
+}
+.bottom {
+	background: white;
+	width: 133.333px !important;
+	height: 133.333px !important;
+	left: 183.333px;
+	top: 183.333px;
+	position: absolute;
+}
+.bottom::after {
+	content:'';
+	border-bottom:183.333px solid transparent;
+	border-right:183.333px solid #fff;
+	top:0;
+	right:183.333px;
+	position:absolute;
+	width:0;
+	height:0;
+}
+.capsule>div {
+	padding:25px;
+	box-sizing:content-box;
+}
+.capsule h2.uppercase {
+	font-size: 24px;
+	line-height:1.2;
+	position: relative;
+	left: 9px;
+	text-transform:uppercase;
+}
+.footer-x a {
+	display:block;
+	margin:0 auto;
+}
+.footer-x a img {
+	display:block;
+	width:50px;
+	height:50px;
+	margin:0 auto;
+}
+span.copyright {
+	width: 100%;
+	text-align: center;
+}
+footer>.callout>.grid-x>.social-media {
+	max-width: 76px;
+	display: block;
+	margin: 0 auto;
+}
+footer>.callout>.grid-x>.social-media a {
+	max-width: 16px;
+	margin: 0 10px;
+	display: inline-block;
+}
+main h2, main h4 {
+	text-align:center;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+main .grid-x {
+	width: 100%;
+}
+main p {
+	text-align:center;
+}
+.text-width {
+	max-width: 660px;
+	margin: 0px auto 20px;
+}
+.companies {
+	padding:0 2%;
+}
+body main .companies .cell {
+	margin:0 0 20px;
+	text-align:left;
+}
+body main .companies .cell p {
+	text-align:left;
+	line-height:1.5;
+}
+.companies .cell img {
+	display: block;
+	max-width: 150px;
+	max-height: 90%;
+}
+.companies-logo {
+	height:120px;
+}
+.feature-header {
+	background:black;
+	padding:5px 20px;
+}
+.feature-header h4 {
+	color:white;
+	text-transform:uppercase;
+	text-align:left;
+	margin:0;
+}
+.feature {
+	text-align:left !important;
+}
+.grid-x.feature>.feature-content {
+	border-top: 1px solid black;
+	padding: 10px 10px 0 0;
+	margin-right: 2%;
+	width: 31%;
+}
+.feature-content p {
+	text-align:left;
+	margin:0;
+}
+.feature-content h3 {
+	font-size:1.4em;
+	font-weight:bold;
+	line-height:1.2;
+	text-transform:uppercase;
+	margin:5px 0;
+}
+.first-feature {
+	margin-right: 0 !important;
+	width: 33.3333% !important;
+	padding-right:2%;
+}
+@media (max-width:768px) and (min-width:640px) {
+	.grid-x.large-3.medium-3.small-12.companies {
+	    width: 50%;
+	}
+}
+@media (max-width:640px) {
+	.companies-logo {
+	    height: auto;
+	}
+	.grid-x.feature>.feature-content {
+	    width: 100% !important;
+	}
+	.bottom {
+	    background: white;
+	    width: 83.333px !important;
+	    height: 83.333px !important;
+	    left: 133.333px;
+	    top: 133.333px;
+	    position: absolute;
+	}
+	.bottom::after {
+	    content: '';
+	    border-bottom: 133.333px solid transparent;
+	    border-right: 133.333px solid #fff;
+	    top: 0;
+	    right: 133.333px;
+	    position: absolute;
+	    width: 0;
+	    height: 0;
+	}
+	.top {
+	    background: white;
+	    width: 128.333px;
+	    height: 83.333px;
+	    position: relative;
+	    padding: 25px 0px 25px 5px !important;
+	    overflow: visible;
+	}
+	.top::after {
+	    content: '';
+	    border-right: 133.333px solid transparent;
+	    border-bottom: 133.333px solid white;
+	    left: 133.333px;
+	    top: 0;
+	    position: absolute;
+	    width: 0;
+	    height: 0;
+	}
+	.capsule h2.uppercase {
+		font-size:20px;
+	}
+	#content {
+		padding:1.5em;
+	}
+	.feature {
+		padding:0;
+	}
+}

@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Blender';
+    src: url('../fonts/Blender-Heavy.eot');
+    src: url('../fonts/Blender-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-Heavy.woff2') format('woff2'),
+        url('../fonts/Blender-Heavy.woff') format('woff'),
+        url('../fonts/Blender-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blender';
+    src: url('../fonts/Blender-Medium.eot');
+    src: url('../fonts/Blender-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-Medium.woff2') format('woff2'),
+        url('../fonts/Blender-Medium.woff') format('woff'),
+        url('../fonts/Blender-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blender';
+    src: url('../fonts/Blender-MediumItalic.eot');
+    src: url('../fonts/Blender-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Blender-MediumItalic.woff') format('woff'),
+        url('../fonts/Blender-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blender';
+    src: url('../fonts/Blender-ThinItalic.eot');
+    src: url('../fonts/Blender-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-ThinItalic.woff2') format('woff2'),
+        url('../fonts/Blender-ThinItalic.woff') format('woff'),
+        url('../fonts/Blender-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blender';
+    src: url('../fonts/Blender-Thin.eot');
+    src: url('../fonts/Blender-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-Thin.woff2') format('woff2'),
+        url('../fonts/Blender-Thin.woff') format('woff'),
+        url('../fonts/Blender-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Blender Book';
+    src: url('../fonts/Blender-BoldItalic.eot');
+    src: url('../fonts/Blender-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Blender-BoldItalic.woff') format('woff'),
+        url('../fonts/Blender-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blender Book';
+    src: url('../fonts/Blender-Bold.eot');
+    src: url('../fonts/Blender-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-Bold.woff2') format('woff2'),
+        url('../fonts/Blender-Bold.woff') format('woff'),
+        url('../fonts/Blender-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blender Book';
+    src: url('../fonts/Blender-BookItalic.eot');
+    src: url('../fonts/Blender-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-BookItalic.woff2') format('woff2'),
+        url('../fonts/Blender-BookItalic.woff') format('woff'),
+        url('../fonts/Blender-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blender Book';
+    src: url('../fonts/Blender-Book.eot');
+    src: url('../fonts/Blender-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blender-Book.woff2') format('woff2'),
+        url('../fonts/Blender-Book.woff') format('woff'),
+        url('../fonts/Blender-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
