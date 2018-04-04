@@ -1,54 +1,54 @@
 @font-face {
     font-family: 'Blender';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Heavy.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Heavy.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Heavy.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Heavy.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Heavy.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Heavy.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Heavy.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Heavy.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Heavy.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Blender';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Medium.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Medium.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Medium.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Medium.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Medium.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Medium.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Medium.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Medium.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Medium.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Blender';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-MediumItalic.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-MediumItalic.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-MediumItalic.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-MediumItalic.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-MediumItalic.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-MediumItalic.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-MediumItalic.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Blender';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-ThinItalic.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-ThinItalic.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-ThinItalic.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-ThinItalic.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-ThinItalic.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-ThinItalic.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-ThinItalic.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-ThinItalic.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-ThinItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Blender';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Thin.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Thin.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Thin.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Thin.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Thin.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Thin.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Thin.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Thin.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Thin.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
@@ -57,44 +57,44 @@
 
 @font-face {
     font-family: 'Blender Book';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BoldItalic.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BoldItalic.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BoldItalic.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BoldItalic.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BoldItalic.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BoldItalic.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BoldItalic.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Blender Book';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Bold.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Bold.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Bold.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Bold.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Bold.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Bold.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Bold.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Bold.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Bold.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Blender Book';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BookItalic.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BookItalic.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BookItalic.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BookItalic.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-BookItalic.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BookItalic.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BookItalic.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BookItalic.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-BookItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Blender Book';
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Book.eot');
-    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Book.eot?#iefix') format('embedded-opentype'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Book.woff2') format('woff2'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Book.woff') format('woff'),
-        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/fonts/Blender-Book.ttf') format('truetype');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Book.eot');
+    src: url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Book.eot?#iefix') format('embedded-opentype'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Book.woff2') format('woff2'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Book.woff') format('woff'),
+        url('http://explore.digitalglobe.com/rs/782-PEE-248/images/Blender-Book.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
