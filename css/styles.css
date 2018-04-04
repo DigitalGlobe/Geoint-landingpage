@@ -113,6 +113,9 @@ ul li {
 	left: 9px;
 	text-transform:uppercase;
 }
+.capsule h2 {
+	font-weight:bold;
+}
 .capsule h4.uppercase {
 	font-size:18px;
 }
@@ -138,7 +141,7 @@ footer>.callout>.grid-x>.social-media {
 }
 @media (max-width:640px) {
 	footer>.callout>.grid-x>.social-media {
-	    max-width: 82px;
+	    max-width: 122px;
 	    display: block;
 	    margin: 0 auto;
 	}
@@ -171,6 +174,9 @@ main p {
 .companies {
 	padding:0 2%;
 	margin:60px 0 !important;
+}
+.description {
+	height: 70%;
 }
 body main .companies .cell {
 	margin:0 0 20px;
@@ -247,6 +253,11 @@ body main .companies .cell p {
 .ssl-logo {
 	position:relative;
 	 bottom:15px;
+}
+@media (max-width:991px) and (min-width:768px){
+	.companies .companies-logo::after {
+		display:none;
+	}
 }
 @media (max-width:768px) and (min-width:640px) {
 	.grid-x.large-3.medium-3.small-12.companies {
