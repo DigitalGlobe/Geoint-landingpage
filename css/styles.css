@@ -14,7 +14,7 @@ a {
 	background:transparent;
 }
 header {
-	background: url('../images/geoint-hero.jpg') center center no-repeat;
+	background: url('../images/maxar-geoint-header.jpeg') center center no-repeat;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -40,10 +40,11 @@ header {
 		margin-top:3em;
 	}
 }
-footer .callout {
+footer>.callout.large {
 	background: black;
 	color: #ccc;
 	margin-bottom:0;
+	padding:.5em;
 }
 footer .callout a {
 	color:white;
@@ -105,12 +106,15 @@ ul li {
 	padding:25px;
 	box-sizing:content-box;
 }
-.capsule h2.uppercase {
+.capsule h2.uppercase, .capsule h4.uppercase {
 	font-size: 22px;
 	line-height:1.2;
 	position: relative;
 	left: 9px;
 	text-transform:uppercase;
+}
+.capsule h4.uppercase {
+	font-size:18px;
 }
 .footer-x a {
 	display:block;
@@ -127,14 +131,27 @@ span.copyright {
 	text-align: center;
 }
 footer>.callout>.grid-x>.social-media {
-	max-width: 78px;
-	display: block;
-	margin: 0 auto;
+    max-width: none;
+    display: block;
+    margin: 0 auto;
+    margin-left: 0;
+}
+@media (max-width:640px) {
+	footer>.callout>.grid-x>.social-media {
+	    max-width: 82px;
+	    display: block;
+	    margin: 0 auto;
+	}
 }
 footer>.callout>.grid-x>.social-media a {
 	max-width: 16px;
 	margin: 0 10px;
 	display: inline-block;
+	position: relative;
+    top: 15px;
+}
+.copyright p {
+    line-height: 5.5;
 }
 main h2, main h4 {
 	text-align:center;
@@ -153,10 +170,12 @@ main p {
 }
 .companies {
 	padding:0 2%;
+	margin:60px 0 !important;
 }
 body main .companies .cell {
 	margin:0 0 20px;
 	text-align:left;
+	position:relative;
 }
 body main .companies .cell p {
 	text-align:left;
@@ -167,8 +186,28 @@ body main .companies .cell p {
 	max-width: 150px;
 	max-height: 90%;
 }
+.dg-logo {
+	position:relative;
+	bottom:20px;
+}
+.companies .companies-logo::after {
+	content:'x';
+	display: block;
+	color:#333;
+	font-size:2em;
+	font-family: "Blender", Arial, "Helvetica Neue", Helvetica, sans-serif;
+	position:absolute;
+	right:0;
+	top:0;
+}
+.dg-logo::after {
+    content: 'x';
+    position: absolute;
+    top: 20px !important;
+    display: block;
+}
 .companies-logo {
-	height:120px;
+	height:90px;
 }
 .feature-header {
 	background:black;
