@@ -178,6 +178,9 @@ main p {
 .description {
 	height: 70%;
 }
+.bold {
+	font-weight:bold;
+}
 body main .companies .cell {
 	margin:0 0 20px;
 	text-align:left;
@@ -191,6 +194,7 @@ body main .companies .cell p {
 	display: block;
 	max-width: 150px;
 	max-height: 90%;
+	margin:0 auto;
 }
 .dg-logo {
 	position:relative;
@@ -203,8 +207,11 @@ body main .companies .cell p {
 	font-size:2em;
 	font-family: "Blender", Arial, "Helvetica Neue", Helvetica, sans-serif;
 	position:absolute;
-	right:0;
+	right:-14%;
 	top:0;
+}
+.companies .radiant-logo::after {
+	display:none;
 }
 .dg-logo::after {
     content: 'x';
@@ -234,6 +241,10 @@ body main .companies .cell p {
 	margin-right: 2%;
 	width: 31%;
 }
+.grid-x.feature>.info {
+	width:66%;
+	margin-right:0;
+}
 .feature-content p {
 	text-align:left;
 	margin:0;
@@ -262,6 +273,11 @@ body main .companies .cell p {
 @media (max-width:768px) and (min-width:640px) {
 	.grid-x.large-3.medium-3.small-12.companies {
 	    width: 50%;
+	}
+}
+@media (max-width:768px) {
+	.companies .companies-logo::after {
+		right:0;
 	}
 }
 @media (max-width:640px) {
